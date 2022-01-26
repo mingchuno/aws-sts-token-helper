@@ -1,0 +1,5 @@
+.config
+.idea/
+.env*
+!.env.example
+aws-sts-token-helper
